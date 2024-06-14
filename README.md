@@ -1,6 +1,6 @@
 ## Functions and switch
 ### Subject:
-####Programming
+#### Programming
 ### Members:
 #### Kevin Segovia and Leidy Vacacela
 #### Test project to learn about the functions and switch
